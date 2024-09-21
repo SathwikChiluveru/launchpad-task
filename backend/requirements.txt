@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+beanie
+motor
+openai==0.28
+python-dotenv
